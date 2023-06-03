@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<webApps xmlns="http://schemas.mathworks.com/matlab/compiler/2016/webappProperties">
+
+  <application>
+    <appEntry>$filename$</appEntry>
+    <title>$appname$</title>
+    <summary>$summary$</summary>
+    <version>$version$</version>
+    <screenshot>$imagename$</screenshot>
+    <authors>
+      <author>
+        <name>$author$</name>
+      </author>
+    </authors>
+  </application>
+
+</webApps>
